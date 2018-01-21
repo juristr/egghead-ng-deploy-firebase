@@ -1,4 +1,4 @@
-# Egghead Lesson: 
+# Egghead Lesson: Build and deploy your Angular app to Firebase Hosting
 
 by Juri Strumpflohner ([Twitter](https://twitter.com/juristr) - [Blog](https://juristr.com/blog))
 
